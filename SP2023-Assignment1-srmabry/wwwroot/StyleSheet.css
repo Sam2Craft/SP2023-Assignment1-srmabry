@@ -1,0 +1,21 @@
+﻿#CoverArt {
+    border-radius: 25%;
+}
+
+#Title {
+    font-family: 'Blade Runner Movie Font', sans-serif;
+    color: white;
+    font-size: 4vw;
+}
+
+#Title_Container {
+    text-align: center;
+}
+
+#Media_Container {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
