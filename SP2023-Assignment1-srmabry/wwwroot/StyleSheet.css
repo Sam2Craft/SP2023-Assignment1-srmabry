@@ -49,6 +49,7 @@ body {
 
 #Actor_List {
     color: white;
+    font-size:2rem;
 }
 
 #Rating {
@@ -66,10 +67,11 @@ body {
 }
 
 
-#Actor_Header{
-    color:white;
-    font-size:3rem;
-    padding-left:5%;
+#Actor_Header {
+    color: white;
+    font-size: 3rem;
+    padding-left: 5%;
+    font-family: Impact;
 }
 
 #Footer_Container{
@@ -79,12 +81,17 @@ body {
     color:white;
 }
 
-#Actor_List{
+#Actors {
     list-style-type: none;
-    padding-left:5%;
-    
+    padding-left: 4.5%;
+    font-family: Impact;
 }
 
-.Actor_List_Item{
-    font-weight:500;
+
+.IMDB_Rating {
+    list-style-type: none;
+    padding-left: 4%;
+    font-family: Impact;
+ color:firebrick;
+ font-size:2rem;
 }
