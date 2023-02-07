@@ -32,7 +32,7 @@ body {
 
 #Trailer_Container {
     position: relative;
-    padding-bottom: 56.25%;
+    padding:.25%;
     overflow: hidden;
 }
 
@@ -96,4 +96,8 @@ body {
     font-family: Impact;
     color: firebrick;
     font-size: 2rem;
+}
+
+#Rating_Container{
+    text-align:center;
 }
