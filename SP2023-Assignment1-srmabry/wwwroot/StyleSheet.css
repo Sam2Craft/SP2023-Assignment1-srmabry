@@ -1,7 +1,7 @@
 ﻿#CoverArt {
     border-radius: 25%;
-    border-color:white;
-    border-style:solid;
+    border-color: white;
+    border-style: solid;
 }
 
 #Title {
@@ -24,10 +24,9 @@ body {
 
 #Summary {
     font-family: 'Blade Runner Movie Font', sans-serif;
-    color:white;
-    font-style:italic;
-    font-size:1.5rem;
-    
+    color: white;
+    font-style: italic;
+    font-size: 1.5rem;
 }
 
 
@@ -43,13 +42,13 @@ body {
     left: 0;
     width: 75%;
     height: 60%;
-    left:12.5%;
+    left: 12.5%;
     top: 10%;
 }
 
 #Actor_List {
     color: white;
-    font-size:2rem;
+    font-size: 2rem;
 }
 
 #Rating {
@@ -62,8 +61,8 @@ body {
 #Trailer_Header {
     font-family: 'Blade Runner Movie Font', sans-serif;
     color: white;
-    font-size:3vw;
-    text-align:center;
+    font-size: 3vw;
+    text-align: center;
 }
 
 
@@ -74,11 +73,12 @@ body {
     font-family: Impact;
 }
 
-#Footer_Container{
-    text-align:center;
+#Footer_Container {
+    text-align: center;
 }
-#Footer{
-    color:white;
+
+#Footer {
+    color: white;
 }
 
 #Actors {
@@ -92,6 +92,6 @@ body {
     list-style-type: none;
     padding-left: 4%;
     font-family: Impact;
- color:firebrick;
- font-size:2rem;
+    color: firebrick;
+    font-size: 2rem;
 }
